@@ -42,9 +42,8 @@ p {
 /*div class*/
 
 .top-container {
-    background: rgb(2,0,36);
-    background: linear-gradient(303deg, rgba(2,0,36,1) 10%, rgba(215,213,189,1) 51%, rgba(191,91,178,0.9934173498500963) 91%);
-
+    background: rgb(193,186,209);
+    background: linear-gradient(65deg, rgba(193,186,209,1) 0%, rgba(196,178,178,1) 39%, rgba(201,171,171,1) 55%, rgba(0,212,255,1) 100%);
     position: relative;
     padding-top: 100px;
 }    
@@ -92,8 +91,8 @@ p {
 
 .bottom-container {
     margin-top: 25px;
-    background: rgb(2,0,36);
-    background: linear-gradient(303deg, rgba(2,0,36,1) 10%, rgba(215,213,189,1) 51%, rgba(191,91,178,0.9934173498500963) 91%); 
+    background: rgb(193,186,209);
+    background: linear-gradient(65deg, rgba(193,186,209,1) 0%, rgba(196,178,178,1) 39%, rgba(201,171,171,1) 55%, rgba(0,212,255,1) 100%);
     padding: 50px 0 20px;
 }
 .contactme-icon {
