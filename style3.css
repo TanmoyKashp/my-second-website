@@ -46,8 +46,8 @@ p {
     background: linear-gradient(90deg, rgba(70,69,78,1) 6%, rgba(167,181,161,1) 50%, rgba(31,33,33,1) 98%);     
     */
 
-    background-color: #abe9cd;
-    background-image: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+    background: rgb(2,0,36);
+    background: linear-gradient(303deg, rgba(2,0,36,1) 10%, rgba(215,213,189,1) 51%, rgba(191,91,178,0.9934173498500963) 91%);
 
     position: relative;
     padding-top: 100px;
